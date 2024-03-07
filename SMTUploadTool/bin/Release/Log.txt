@@ -1,0 +1,542 @@
+ 
+App open  time: 2023/12/27 15:54:22
+App Close time: 2023/12/27 15:54:29
+ 
+ 
+App open  time: 2023/12/27 17:02:13
+ 
+App "Change Setting" Time(2023/12/27 17:02:52)
+Line Number        > From:L0
+                     To  :L1
+Monitor Folder     > From:
+                     To  :C:\Users\ctmit1\OneDrive - Computime Limited\Desktop\FolderMonitor
+Target File Name   > From:
+                     To  :insp_pad.txt
+Destination Folder > From:
+                     To  :C:\Users\ctmit1\OneDrive\Destination
+Log File Path      > From:C:\Users\ctmit1\source\repos\Fetch&UploadTool\bin\Release\Log.txt
+                     To  :C:\Users\ctmit1\source\repos\Fetch&UploadTool\bin\Release\Log.txt
+ 
+-------------------------------------------------------------------------------------------------------------------------
+App "START" time: 2023/12/27 17:02:52
+ 
+App open  time: 2023/12/27 17:04:38
+-------------------------------------------------------------------------------------------------------------------------
+App "START" time: 2023/12/27 17:04:38
+App "STOP" time: 2023/12/27 17:04:43
+-------------------------------------------------------------------------------------------------------------------------
+ 
+App "Change Setting" Time(2023/12/27 17:04:46)
+Line Number        > From:L1
+                     To  :L4
+Monitor Folder     > From:C:\Users\ctmit1\OneDrive - Computime Limited\Desktop\FolderMonitor
+                     To  :C:\Users\ctmit1\OneDrive - Computime Limited\Desktop\FolderMonitor
+Target File Name   > From:insp_pad.txt
+                     To  :insp_pad.txt
+Destination Folder > From:C:\Users\ctmit1\OneDrive\Destination
+                     To  :C:\Users\ctmit1\OneDrive\Destination
+Log File Path      > From:C:\Users\ctmit1\source\repos\Fetch&UploadTool\bin\Release\Log.txt
+                     To  :C:\Users\ctmit1\source\repos\Fetch&UploadTool\bin\Release\Log.txt
+ 
+-------------------------------------------------------------------------------------------------------------------------
+App "START" time: 2023/12/27 17:04:46
+App Close time: 2023/12/27 17:04:49
+ 
+ 
+App open  time: 2023/12/27 17:04:52
+-------------------------------------------------------------------------------------------------------------------------
+App "START" time: 2023/12/27 17:04:52
+(2023/12/27 17:04:59)Checking Folder <20231227170459>...
+(2023/12/27 17:04:59)Checking Folder <20231227170459>...
+  Result>> Date : 2023/12/27, Time: 17:04:59, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170459.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170459, To Destination Folder: Destination
+ 
+  Result>> Date : 2023/12/27, Time: 17:04:59, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170459.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170459, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:00)Checking Folder <20231227170500>...
+  Result>> Date : 2023/12/27, Time: 17:05:00, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170500.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170500, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:01)Checking Folder <20231227170501>...
+  Result>> Date : 2023/12/27, Time: 17:05:01, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170501.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170501, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:02)Checking Folder <20231227170502>...
+  Result>> Date : 2023/12/27, Time: 17:05:02, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170502.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170502, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:03)Checking Folder <20231227170503>...
+  Result>> Date : 2023/12/27, Time: 17:05:03, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170503.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170503, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:04)Checking Folder <20231227170501>...
+  Result>> Date : 2023/12/27, Time: 17:05:04, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170501.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170501, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:04)Checking Folder <20231227170502>...
+  Result>> Date : 2023/12/27, Time: 17:05:04, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170502.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170502, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:04)Checking Folder <20231227170503>...
+  Result>> Date : 2023/12/27, Time: 17:05:04, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170503.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170503, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:04)Checking Folder <20231227170504>...
+  Result>> Date : 2023/12/27, Time: 17:05:04, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170504.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170504, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:05)Checking Folder <20231227170505>...
+  Result>> Date : 2023/12/27, Time: 17:05:05, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170505.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170505, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:06)Checking Folder <20231227170506>...
+  Result>> Date : 2023/12/27, Time: 17:05:06, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170506.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170506, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:07)Checking Folder <20231227170507>...
+  Result>> Date : 2023/12/27, Time: 17:05:07, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170507.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170507, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:08)Checking Folder <20231227170508>...
+  Result>> Date : 2023/12/27, Time: 17:05:08, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170508.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170508, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:09)Checking Folder <20231227170509>...
+  Result>> Date : 2023/12/27, Time: 17:05:09, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170509.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170509, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:10)Checking Folder <20231227170510>...
+  Result>> Date : 2023/12/27, Time: 17:05:10, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170510.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170510, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:11)Checking Folder <20231227170511>...
+  Result>> Date : 2023/12/27, Time: 17:05:11, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170511.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170511, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:12)Checking Folder <20231227170512>...
+  Result>> Date : 2023/12/27, Time: 17:05:12, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170512.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170512, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:13)Checking Folder <20231227170513>...
+  Result>> Date : 2023/12/27, Time: 17:05:13, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170513.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170513, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:14)Checking Folder <20231227170514>...
+  Result>> Date : 2023/12/27, Time: 17:05:14, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170514.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170514, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:15)Checking Folder <20231227170515>...
+  Result>> Date : 2023/12/27, Time: 17:05:15, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170515.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170515, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:16)Checking Folder <20231227170516>...
+  Result>> Date : 2023/12/27, Time: 17:05:16, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170516.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170516, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:17)Checking Folder <20231227170517>...
+  Result>> Date : 2023/12/27, Time: 17:05:17, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170517.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170517, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:18)Checking Folder <20231227170518>...
+  Result>> Date : 2023/12/27, Time: 17:05:18, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170518.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170518, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:19)Checking Folder <20231227170519>...
+  Result>> Date : 2023/12/27, Time: 17:05:19, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170519.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170519, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:20)Checking Folder <20231227170520>...
+  Result>> Date : 2023/12/27, Time: 17:05:20, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170520.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170520, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:21)Checking Folder <20231227170521>...
+  Result>> Date : 2023/12/27, Time: 17:05:21, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170521.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170521, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:22)Checking Folder <20231227170522>...
+  Result>> Date : 2023/12/27, Time: 17:05:22, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170522.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170522, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:23)Checking Folder <20231227170523>...
+  Result>> Date : 2023/12/27, Time: 17:05:23, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170523.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170523, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:24)Checking Folder <20231227170524>...
+  Result>> Date : 2023/12/27, Time: 17:05:24, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170524.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170524, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:25)Checking Folder <20231227170525>...
+  Result>> Date : 2023/12/27, Time: 17:05:25, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170525.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170525, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:26)Checking Folder <20231227170526>...
+  Result>> Date : 2023/12/27, Time: 17:05:26, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170526.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170526, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:27)Checking Folder <20231227170527>...
+  Result>> Date : 2023/12/27, Time: 17:05:27, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170527.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170527, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:28)Checking Folder <20231227170528>...
+  Result>> Date : 2023/12/27, Time: 17:05:29, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170528.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170528, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:30)Checking Folder <20231227170529>...
+  Result>> Date : 2023/12/27, Time: 17:05:30, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170529.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170529, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:31)Checking Folder <20231227170530>...
+  Result>> Date : 2023/12/27, Time: 17:05:31, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170530.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170530, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:32)Checking Folder <20231227170531>...
+  Result>> Date : 2023/12/27, Time: 17:05:32, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170531.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170531, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:33)Checking Folder <20231227170532>...
+  Result>> Date : 2023/12/27, Time: 17:05:33, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170532.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170532, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:34)Checking Folder <20231227170533>...
+  Result>> Date : 2023/12/27, Time: 17:05:34, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170533.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170533, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:35)Checking Folder <20231227170534>...
+  Result>> Date : 2023/12/27, Time: 17:05:35, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170534.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170534, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:36)Checking Folder <20231227170535>...
+  Result>> Date : 2023/12/27, Time: 17:05:36, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170535.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170535, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:37)Checking Folder <20231227170536>...
+  Result>> Date : 2023/12/27, Time: 17:05:37, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170536.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170536, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:38)Checking Folder <20231227170537>...
+  Result>> Date : 2023/12/27, Time: 17:05:38, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170537.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170537, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:39)Checking Folder <20231227170538>...
+  Result>> Date : 2023/12/27, Time: 17:05:39, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170538.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170538, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:40)Checking Folder <20231227170539>...
+  Result>> Date : 2023/12/27, Time: 17:05:40, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170539.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170539, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:41)Checking Folder <20231227170540>...
+  Result>> Date : 2023/12/27, Time: 17:05:41, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170540.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170540, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:42)Checking Folder <20231227170541>...
+  Result>> Date : 2023/12/27, Time: 17:05:42, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170541.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170541, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:43)Checking Folder <20231227170542>...
+  Result>> Date : 2023/12/27, Time: 17:05:43, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170542.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170542, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:44)Checking Folder <20231227170543>...
+  Result>> Date : 2023/12/27, Time: 17:05:44, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170543.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170543, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:45)Checking Folder <20231227170544>...
+  Result>> Date : 2023/12/27, Time: 17:05:45, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170544.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170544, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:46)Checking Folder <20231227170545>...
+  Result>> Date : 2023/12/27, Time: 17:05:46, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170545.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170545, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:47)Checking Folder <20231227170546>...
+  Result>> Date : 2023/12/27, Time: 17:05:47, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170546.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170546, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:48)Checking Folder <20231227170547>...
+  Result>> Date : 2023/12/27, Time: 17:05:48, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170547.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170547, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:49)Checking Folder <20231227170548>...
+  Result>> Date : 2023/12/27, Time: 17:05:49, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170548.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170548, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:50)Checking Folder <20231227170549>...
+  Result>> Date : 2023/12/27, Time: 17:05:50, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170549.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170549, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:51)Checking Folder <20231227170550>...
+  Result>> Date : 2023/12/27, Time: 17:05:51, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170550.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170550, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:52)Checking Folder <20231227170551>...
+  Result>> Date : 2023/12/27, Time: 17:05:52, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170551.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170551, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:53)Checking Folder <20231227170552>...
+  Result>> Date : 2023/12/27, Time: 17:05:53, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170552.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170552, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:54)Checking Folder <20231227170553>...
+  Result>> Date : 2023/12/27, Time: 17:05:54, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170553.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170553, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:55)Checking Folder <20231227170554>...
+  Result>> Date : 2023/12/27, Time: 17:05:55, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170554.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170554, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:56)Checking Folder <20231227170555>...
+  Result>> Date : 2023/12/27, Time: 17:05:56, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170555.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170555, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:57)Checking Folder <20231227170556>...
+  Result>> Date : 2023/12/27, Time: 17:05:57, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170556.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170556, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:58)Checking Folder <20231227170557>...
+  Result>> Date : 2023/12/27, Time: 17:05:58, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170557.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170557, To Destination Folder: Destination
+ 
+(2023/12/27 17:05:59)Checking Folder <20231227170558>...
+  Result>> Date : 2023/12/27, Time: 17:05:59, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170558.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170558, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:00)Checking Folder <20231227170559>...
+  Result>> Date : 2023/12/27, Time: 17:06:01, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170559.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170559, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:02)Checking Folder <20231227170600>...
+  Result>> Date : 2023/12/27, Time: 17:06:02, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170600.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170600, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:03)Checking Folder <20231227170601>...
+  Result>> Date : 2023/12/27, Time: 17:06:03, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170601.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170601, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:04)Checking Folder <20231227170602>...
+  Result>> Date : 2023/12/27, Time: 17:06:04, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170602.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170602, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:05)Checking Folder <20231227170603>...
+  Result>> Date : 2023/12/27, Time: 17:06:05, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170603.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170603, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:06)Checking Folder <20231227170604>...
+  Result>> Date : 2023/12/27, Time: 17:06:06, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170604.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170604, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:07)Checking Folder <20231227170605>...
+  Result>> Date : 2023/12/27, Time: 17:06:07, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170605.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170605, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:08)Checking Folder <20231227170606>...
+  Result>> Date : 2023/12/27, Time: 17:06:08, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170606.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170606, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:09)Checking Folder <20231227170607>...
+  Result>> Date : 2023/12/27, Time: 17:06:09, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170607.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170607, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:10)Checking Folder <20231227170608>...
+  Result>> Date : 2023/12/27, Time: 17:06:10, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170608.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170608, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:11)Checking Folder <20231227170609>...
+  Result>> Date : 2023/12/27, Time: 17:06:11, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170609.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170609, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:12)Checking Folder <20231227170610>...
+  Result>> Date : 2023/12/27, Time: 17:06:12, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170610.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170610, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:13)Checking Folder <20231227170611>...
+  Result>> Date : 2023/12/27, Time: 17:06:13, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170611.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170611, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:14)Checking Folder <20231227170612>...
+  Result>> Date : 2023/12/27, Time: 17:06:14, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170612.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170612, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:15)Checking Folder <20231227170613>...
+  Result>> Date : 2023/12/27, Time: 17:06:15, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170613.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170613, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:16)Checking Folder <20231227170614>...
+  Result>> Date : 2023/12/27, Time: 17:06:16, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170614.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170614, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:17)Checking Folder <20231227170615>...
+  Result>> Date : 2023/12/27, Time: 17:06:18, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170615.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170615, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:18)Checking Folder <20231227170616>...
+  Result>> Date : 2023/12/27, Time: 17:06:18, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170616.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170616, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:19)Checking Folder <20231227170617>...
+  Result>> Date : 2023/12/27, Time: 17:06:19, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170617.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170617, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:21)Checking Folder <20231227170618>...
+  Result>> Date : 2023/12/27, Time: 17:06:21, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170618.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170618, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:22)Checking Folder <20231227170619>...
+  Result>> Date : 2023/12/27, Time: 17:06:22, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170619.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170619, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:23)Checking Folder <20231227170620>...
+  Result>> Date : 2023/12/27, Time: 17:06:23, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170620.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170620, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:24)Checking Folder <20231227170621>...
+  Result>> Date : 2023/12/27, Time: 17:06:24, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170621.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170621, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:25)Checking Folder <20231227170622>...
+  Result>> Date : 2023/12/27, Time: 17:06:25, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170622.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170622, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:26)Checking Folder <20231227170623>...
+  Result>> Date : 2023/12/27, Time: 17:06:26, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170623.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170623, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:27)Checking Folder <20231227170624>...
+  Result>> Date : 2023/12/27, Time: 17:06:27, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170624.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170624, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:28)Checking Folder <20231227170625>...
+  Result>> Date : 2023/12/27, Time: 17:06:28, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170625.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170625, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:29)Checking Folder <20231227170626>...
+  Result>> Date : 2023/12/27, Time: 17:06:29, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170626.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170626, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:30)Checking Folder <20231227170627>...
+  Result>> Date : 2023/12/27, Time: 17:06:30, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170627.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170627, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:31)Checking Folder <20231227170628>...
+  Result>> Date : 2023/12/27, Time: 17:06:31, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170628.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170628, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:32)Checking Folder <20231227170629>...
+  Result>> Date : 2023/12/27, Time: 17:06:32, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170629.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170629, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:33)Checking Folder <20231227170630>...
+  Result>> Date : 2023/12/27, Time: 17:06:33, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170630.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170630, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:34)Checking Folder <20231227170631>...
+  Result>> Date : 2023/12/27, Time: 17:06:34, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170631.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170631, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:35)Checking Folder <20231227170632>...
+  Result>> Date : 2023/12/27, Time: 17:06:35, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170632.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170632, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:36)Checking Folder <20231227170633>...
+  Result>> Date : 2023/12/27, Time: 17:06:36, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170633.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170633, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:37)Checking Folder <20231227170634>...
+  Result>> Date : 2023/12/27, Time: 17:06:38, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170634.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170634, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:38)Checking Folder <20231227170635>...
+  Result>> Date : 2023/12/27, Time: 17:06:38, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170635.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170635, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:39)Checking Folder <20231227170636>...
+  Result>> Date : 2023/12/27, Time: 17:06:39, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170636.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170636, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:40)Checking Folder <20231227170637>...
+  Result>> Date : 2023/12/27, Time: 17:06:40, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170637.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170637, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:41)Checking Folder <20231227170638>...
+  Result>> Date : 2023/12/27, Time: 17:06:42, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170638.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170638, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:43)Checking Folder <20231227170639>...
+  Result>> Date : 2023/12/27, Time: 17:06:43, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170639.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170639, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:44)Checking Folder <20231227170640>...
+  Result>> Date : 2023/12/27, Time: 17:06:44, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170640.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170640, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:45)Checking Folder <20231227170641>...
+  Result>> Date : 2023/12/27, Time: 17:06:45, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170641.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170641, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:46)Checking Folder <20231227170642>...
+  Result>> Date : 2023/12/27, Time: 17:06:46, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170642.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170642, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:47)Checking Folder <20231227170643>...
+  Result>> Date : 2023/12/27, Time: 17:06:47, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170643.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170643, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:48)Checking Folder <20231227170644>...
+  Result>> Date : 2023/12/27, Time: 17:06:48, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170644.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170644, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:49)Checking Folder <20231227170645>...
+  Result>> Date : 2023/12/27, Time: 17:06:49, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170645.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170645, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:50)Checking Folder <20231227170646>...
+  Result>> Date : 2023/12/27, Time: 17:06:50, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170646.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170646, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:51)Checking Folder <20231227170647>...
+  Result>> Date : 2023/12/27, Time: 17:06:51, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170647.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170647, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:52)Checking Folder <20231227170648>...
+  Result>> Date : 2023/12/27, Time: 17:06:52, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170648.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170648, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:53)Checking Folder <20231227170649>...
+  Result>> Date : 2023/12/27, Time: 17:06:53, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170649.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170649, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:54)Checking Folder <20231227170650>...
+  Result>> Date : 2023/12/27, Time: 17:06:54, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170650.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170650, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:55)Checking Folder <20231227170651>...
+  Result>> Date : 2023/12/27, Time: 17:06:56, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170651.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170651, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:57)Checking Folder <20231227170652>...
+  Result>> Date : 2023/12/27, Time: 17:06:57, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170652.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170652, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:58)Checking Folder <20231227170653>...
+  Result>> Date : 2023/12/27, Time: 17:06:58, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170653.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170653, To Destination Folder: Destination
+ 
+(2023/12/27 17:06:59)Checking Folder <20231227170654>...
+  Result>> Date : 2023/12/27, Time: 17:06:59, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170654.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170654, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:00)Checking Folder <20231227170655>...
+  Result>> Date : 2023/12/27, Time: 17:07:00, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170655.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170655, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:01)Checking Folder <20231227170656>...
+  Result>> Date : 2023/12/27, Time: 17:07:01, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170656.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170656, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:02)Checking Folder <20231227170657>...
+  Result>> Date : 2023/12/27, Time: 17:07:02, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170657.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170657, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:03)Checking Folder <20231227170658>...
+  Result>> Date : 2023/12/27, Time: 17:07:03, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170658.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170658, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:04)Checking Folder <20231227170659>...
+  Result>> Date : 2023/12/27, Time: 17:07:04, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170659.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170659, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:05)Checking Folder <20231227170700>...
+  Result>> Date : 2023/12/27, Time: 17:07:05, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170700.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170700, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:06)Checking Folder <20231227170701>...
+  Result>> Date : 2023/12/27, Time: 17:07:06, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170701.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170701, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:07)Checking Folder <20231227170702>...
+  Result>> Date : 2023/12/27, Time: 17:07:07, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170702.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170702, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:08)Checking Folder <20231227170703>...
+  Result>> Date : 2023/12/27, Time: 17:07:08, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170703.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170703, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:09)Checking Folder <20231227170704>...
+  Result>> Date : 2023/12/27, Time: 17:07:09, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170704.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170704, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:10)Checking Folder <20231227170705>...
+  Result>> Date : 2023/12/27, Time: 17:07:10, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170705.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170705, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:11)Checking Folder <20231227170706>...
+  Result>> Date : 2023/12/27, Time: 17:07:11, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170706.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170706, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:12)Checking Folder <20231227170707>...
+  Result>> Date : 2023/12/27, Time: 17:07:12, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170707.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170707, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:13)Checking Folder <20231227170708>...
+  Result>> Date : 2023/12/27, Time: 17:07:13, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170708.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170708, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:14)Checking Folder <20231227170709>...
+  Result>> Date : 2023/12/27, Time: 17:07:14, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170709.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170709, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:15)Checking Folder <20231227170710>...
+  Result>> Date : 2023/12/27, Time: 17:07:15, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170710.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170710, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:16)Checking Folder <20231227170711>...
+  Result>> Date : 2023/12/27, Time: 17:07:16, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170711.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170711, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:17)Checking Folder <20231227170712>...
+  Result>> Date : 2023/12/27, Time: 17:07:17, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170712.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170712, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:18)Checking Folder <20231227170713>...
+  Result>> Date : 2023/12/27, Time: 17:07:18, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170713.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170713, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:19)Checking Folder <20231227170714>...
+  Result>> Date : 2023/12/27, Time: 17:07:19, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170714.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170714, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:20)Checking Folder <20231227170715>...
+  Result>> Date : 2023/12/27, Time: 17:07:20, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170715.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170715, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:21)Checking Folder <20231227170716>...
+  Result>> Date : 2023/12/27, Time: 17:07:21, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170716.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170716, To Destination Folder: Destination
+ 
+(2023/12/27 17:07:22)Checking Folder <20231227170717>...
+  Result>> Date : 2023/12/27, Time: 17:07:22, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170717.txt, File Size: 12093(bytes), Status: Successful, From Folder: 20231227170717, To Destination Folder: Destination
+ 
+App Close time: 2023/12/27 17:09:13
+ 
+ 
+App open  time: 2023/12/27 17:09:18
+-------------------------------------------------------------------------------------------------------------------------
+App "START" time: 2023/12/27 17:09:18
+(2023/12/27 17:09:28)Checking Folder <20231227170928>...
+  Result>> Date : 2023/12/27, Time: 17:09:28, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170928.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170928, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:29)Checking Folder <20231227170929>...
+  Result>> Date : 2023/12/27, Time: 17:09:29, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170929.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170929, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:30)Checking Folder <20231227170930>...
+  Result>> Date : 2023/12/27, Time: 17:09:30, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170930.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170930, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:31)Checking Folder <20231227170931>...
+  Result>> Date : 2023/12/27, Time: 17:09:31, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170931.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170931, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:32)Checking Folder <20231227170932>...
+  Result>> Date : 2023/12/27, Time: 17:09:32, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170932.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170932, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:33)Checking Folder <20231227170933>...
+  Result>> Date : 2023/12/27, Time: 17:09:33, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170933.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170933, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:34)Checking Folder <20231227170934>...
+  Result>> Date : 2023/12/27, Time: 17:09:34, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170934.txt, File Size: 12091(bytes), Status: Successful, From Folder: 20231227170934, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:35)Checking Folder <20231227170935>...
+  Result>> Date : 2023/12/27, Time: 17:09:35, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170935.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170935, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:36)Checking Folder <20231227170936>...
+  Result>> Date : 2023/12/27, Time: 17:09:36, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170936.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170936, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:37)Checking Folder <20231227170937>...
+  Result>> Date : 2023/12/27, Time: 17:09:37, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170937.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170937, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:38)Checking Folder <20231227170938>...
+  Result>> Date : 2023/12/27, Time: 17:09:38, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170938.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170938, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:39)Checking Folder <20231227170939>...
+  Result>> Date : 2023/12/27, Time: 17:09:39, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170939.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170939, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:40)Checking Folder <20231227170940>...
+  Result>> Date : 2023/12/27, Time: 17:09:40, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170940.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170940, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:41)Checking Folder <20231227170941>...
+  Result>> Date : 2023/12/27, Time: 17:09:41, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170941.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170941, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:42)Checking Folder <20231227170942>...
+  Result>> Date : 2023/12/27, Time: 17:09:42, Line:L4, Model:TESTELUR1234, File Name: L4_TESTELUR1234_20231227170942.txt, File Size: 55(bytes), Status: Successful, From Folder: 20231227170942, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:43)Checking Folder <20231227170943>...
+  Result>> Date : 2023/12/27, Time: 17:09:43, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170943.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170943, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:44)Checking Folder <20231227170944>...
+  Result>> Date : 2023/12/27, Time: 17:09:44, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170944.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170944, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:45)Checking Folder <20231227170945>...
+  Result>> Date : 2023/12/27, Time: 17:09:45, Line:L4, Model:TEST1234, File Name: L4_TEST1234_20231227170945.txt, File Size: 50(bytes), Status: Successful, From Folder: 20231227170945, To Destination Folder: Destination
+ 
+(2023/12/27 17:09:46)Checking Folder <20231227170946>...
+  Result>> Date : 2023/12/27, Time: 17:09:46, Line:L4, Model:TESTELUD1234, File Name: L4_TESTELUD1234_20231227170946.txt, File Size: 12092(bytes), Status: Successful, From Folder: 20231227170946, To Destination Folder: Destination
+ 
+App Close time: 2023/12/27 17:09:58
+ 

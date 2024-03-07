@@ -1,0 +1,27 @@
+ 
+App open  time: 2023/12/20 16:24:26
+ 
+App open  time: 2023/12/20 16:26:59
+App Close time: 2023/12/20 16:27:03
+ 
+App Close time: 2023/12/20 16:27:44
+ 
+ 
+App open  time: 2023/12/20 16:48:01
+App Close time: 2023/12/20 16:48:09
+ 
+ 
+App open  time: 2023/12/20 16:48:15
+ 
+App "Change Setting" Time(2023/12/20 16:48:54)
+Line Number        > From:L0
+                     To  :L1
+Monitor Folder     > From:
+                     To  :C:\Users\ctmit1\OneDrive - Computime Limited\Desktop\FolderMonitor
+Target File Name   > From:
+                     To  :insp_pad.txt
+Destination Folder > From:
+                     To  :C:\Users\ctmit1\OneDrive\Destination
+Log File Path      > From:C:\Users\ctmit1\source\repos\Fetch&UploadTool\bin\Debug\Log.txt
+                     To  :C:\Users\ctmit1\OneDrive - Computime Limited\Desktop\Log.txt
+ 

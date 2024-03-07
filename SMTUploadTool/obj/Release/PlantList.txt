@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------------------------------------------------
+|List down(line by line) the plant name, Abbreviation OR Keyword that you want to Stored in another or specific folder.|
+|PS:1.The keyword or plant name MUST INCLUDE IN THE MODEL NAME.                                                        |
+|   2.UPPERCASE				                                                                               |
+|   3.If Model name match with the Keyword, program Will create the specifc folder to store file.                      |
+|                                                                                                                      |
+|           (MODEL NAME)            (KEYWORD)                                                                          |
+|example: "WIPSORELUR504-B"      >>  "ELUR"                                                                            |
+|         "WIPSORTRN8505-A-WIFI" >>  "TRN"                                                                             |
+------------------------------------------------------------------------------------------------------------------------
+LIST BELOW :
+------------
+ELUR
+ELUD
+
+

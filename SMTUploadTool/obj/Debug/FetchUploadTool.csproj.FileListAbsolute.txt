@@ -1,0 +1,13 @@
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\bin\Debug\AutoUploadTool.exe.config
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\bin\Debug\AutoUploadTool.exe
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\bin\Debug\AutoUploadTool.pdb
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\FetchUploadTool.csproj.AssemblyReference.cache
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\FetchUploadTool.Form1.resources
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\AutoUploadTool.Properties.Resources.resources
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\FetchUploadTool.csproj.GenerateResource.cache
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\FetchUploadTool.csproj.CoreCompileInputs.cache
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\AutoUploadTool.exe
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\AutoUploadTool.pdb
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\FetchUploadTool.Form2.resources
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ctmit1\Source\Repos\Fetch&UploadTool\obj\Debug\FetchUploadTool.csproj.ResolveComReference.cache
